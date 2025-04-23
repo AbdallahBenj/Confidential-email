@@ -26,6 +26,6 @@ To test the Confidential Email page:
 
 Or preview it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Confidential-email/)
 
 ## Protect the message. Master content masking with CSS. 🕵️‍♂️📩✨
